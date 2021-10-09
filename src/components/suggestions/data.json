@@ -1,0 +1,65 @@
+[
+    {
+        "person1":{
+        "id":1,
+        "name":"Person-1",
+        "compName":"ABC Company pvt ltd",
+        "connection":289
+    },
+    "person2":{
+        "id":2,
+        "name":"Person-2",
+        "compName":"XYZ Company pvt ltd",
+        "connection":249
+    },
+    "person3":{
+        "id":3,
+        "name":"Person-3",
+        "compName":"LMN Company pvt ltd",
+        "connection":105
+    },
+    "person4":{
+        "id":4,
+        "name":"Person-4",
+        "compName":"BDF Company pvt ltd",
+        "connection":100
+    },
+    "person5":{
+        "id":5,
+        "name":"Person-5",
+        "compName":"PDF Company pvt ltd",
+        "connection":678
+    },
+    "person6":{
+        "id":6,
+        "name":"Person-6",
+        "compName":"BMW Company pvt ltd",
+        "connection":289
+    },
+    "person7":{
+        "id":7,
+        "name":"Person-7",
+        "compName":"UYT Company pvt ltd",
+        "connection":389
+    },
+    "person8":{
+        "id":8,
+        "name":"Person-8",
+        "compName":"MN Company pvt ltd",
+        "connection":150
+    },
+    "person9":{
+        "id":9,
+        "name":"Person-9",
+        "compName":"JK Company pvt ltd",
+        "connection":650
+    },
+    "person10":{
+        "id":10,
+        "name":"Person-10",
+        "compName":"zx Company pvt ltd",
+        "connection":950
+    }
+}
+    
+]

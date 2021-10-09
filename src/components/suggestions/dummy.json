@@ -1,0 +1,22 @@
+[
+    {
+        "person1":
+            {"id":1,
+        "name":"Atharva Parkale",
+        "compName":"ABC Company pvt ltd",
+        "connection":289
+    },
+    
+    
+
+    
+        "person2":
+            {"id":2,
+        "name":"Pratosh Agasimani",
+        "compName":"XYZ Company pvt ltd",
+        "connection":249
+    }
+    
+     
+}
+]
